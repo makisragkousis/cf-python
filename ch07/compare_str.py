@@ -1,7 +1,7 @@
 """String comparison examples"""
 
 
-from ch7.interning_and_compare import are_equal
+from ch07.interning_and_compare import are_equal
 
 s1 = "Andrew"
 s2 = "andrew"
